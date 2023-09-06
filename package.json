@@ -1,0 +1,14 @@
+{
+  "name": "tugaspekan1cypress",
+  "version": "1.0.0",
+  "description": "Tugas Pekan 1 Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandi Hidayat",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}

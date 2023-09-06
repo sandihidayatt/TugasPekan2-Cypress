@@ -1,0 +1,6 @@
+{
+    "validUsername" : "John Doe",
+    "validPassword" : "ThisIsNotAPassword",
+    "invalidUsername" : "Sandi Hidayat",
+    "invalidPassword" : "Password"
+}
